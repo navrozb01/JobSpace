@@ -1,5 +1,6 @@
 # JobSpace
-These are some scrrenshots of the final working project - 
+
+Here are some screenshots of the final working project - 
 
 Login - 
 ![Screenshot (78)](https://github.com/navrozb01/JobSpace/assets/96216861/8b57774d-2f5f-4835-8c2c-b07937734b3d)
